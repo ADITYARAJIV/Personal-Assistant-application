@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630395898 source:c:\rajiv\aditya\codeblocks\personal assisstant\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
