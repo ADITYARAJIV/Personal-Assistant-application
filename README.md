@@ -21,7 +21,7 @@ system("start url of browser");
 Example:
 system("start https://www.youtube.com");
 
-To copen .exe files such as ms word,paint,excel notepad etc:
+To open .exe files such as ms word,paint,excel notepad etc:
 CreateProcess(TEXT("file path"), NULL, NULL, NULL, FALSE, NULL, NULL, NULL, &startInfo, &processInfo);
 
 To play audio using mcisendstring:
